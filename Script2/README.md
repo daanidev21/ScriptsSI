@@ -1,6 +1,6 @@
-Este código ayuda a oorganizar los archivos de un directorio en unos sencillos pasos.
+Este código ayuda a organizar los archivos de un directorio en unos sencillos pasos.
 
-1. Descarga el archivo .py y llevalo a la carpeta donde desees organizar los arhcivos. 
+1. Descarga el archivo .py y llévalo a la carpeta donde desees organizar los arhcivos. 
 	Si tienes extensiones de archivos que no aparezcan en el programa, simplemente añádelos a la lista.
 	Adjunto carpeta con algunos archivos de muestra.
 	
